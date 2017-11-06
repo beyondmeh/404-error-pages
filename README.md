@@ -1,6 +1,6 @@
 # 404 Page Seasoning
 
-<img src="https://raw.githubusercontent.com/keithieopia/404-page-seasoning/master/img/old-page-seasoning.png" style="float: right; width: 100px;">
+<img src="https://raw.githubusercontent.com/keithieopia/404-page-seasoning/master/img/old-page-seasoning.png" align="right" width="200">
 
 A [404 error](https://en.wikipedia.org/wiki/HTTP_404) (Page Not Found) page mockup featuring a parody of Maryland's [favorite seasoning](http://www.oldbay.com). Crabs not included.
 
