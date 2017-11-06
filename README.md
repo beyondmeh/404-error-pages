@@ -4,6 +4,12 @@
 
 A [404 error](https://en.wikipedia.org/wiki/HTTP_404) (Page Not Found) page mockup featuring a parody of Maryland's [favorite seasoning](http://www.oldbay.com). Crabs not included.
 
+## Originals
+
+The `originals/` directory contains the working copies in [GIMP](https://www.gimp.org)'s native `.xcf` file format. Due to their large size (~17 MB), they've been compressed with [XZ Utils](https://tukaani.org/xz/) (LZMA2).
+
+Should you fork this repo, `blank-can.png` is probably more than enough for most purposes.
+
 ## Credits
 
 ### Background
