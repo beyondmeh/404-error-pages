@@ -12,7 +12,7 @@ A [404 error](https://en.wikipedia.org/wiki/HTTP_404) (Page Not Found) page mock
 *Licensed under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
 
 ### Seasoning Can Image
-Parody of the [Old Bay&#174; Seasoning](http://www.oldbay.com) can &copy; McCormick & Company, Inc.  
+Parody of the [Old Bay &#174; Seasoning](http://www.oldbay.com) can, &copy; McCormick & Company, Inc.  
   
 *Used under the [fair use](https://www.law.cornell.edu/uscode/text/17/107) doctrine as a non-commercial [parody](https://en.wikipedia.org/wiki/Fair_use#Fair_use_and_parody) work*
 
