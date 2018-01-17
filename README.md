@@ -1,14 +1,17 @@
-# 404 Page Seasoning
+# 404 Error Pages
 
-<img src="https://raw.githubusercontent.com/keithieopia/404-page-seasoning/master/img/old-page-seasoning.png" align="right" width="200">
+<img src="https://raw.githubusercontent.com/keithieopia/404-error-pages/master/originals/old-page-seasoning.png" align="right" width="200">
 
-A [404 error](https://en.wikipedia.org/wiki/HTTP_404) (Page Not Found) page mockup featuring a parody of Maryland's [favorite seasoning](http://www.oldbay.com). Crabs not included.
+Various [404 error](https://en.wikipedia.org/wiki/HTTP_404) (Page Not Found) pages I've made over the years.
+
+- `404-bsod.html` - Windows 9x era [BSOD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death)
+- `404-old-page-seasoning.html` - parody of Maryland's [favorite seasoning](http://www.oldbay.com). Crabs not included.
+
+
 
 ## Originals
 
 The `originals/` directory contains the working copies in [GIMP](https://www.gimp.org)'s native `.xcf` file format. Due to their large size (~17 MB), they've been compressed with [XZ Utils](https://tukaani.org/xz/) (LZMA2).
-
-Should you fork this repo, `blank-can.png` is probably more than enough for most purposes.
 
 ## Credits
 

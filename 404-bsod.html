@@ -1,0 +1,84 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Error: File Not Found</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+
+        <style type="text/css">
+			
+			html, body {
+				background-color: #0F30B8; /* blue */
+				font-family: 'VT323', monospace;
+				font-size: 24px;
+				color: #FFFFFF;
+			
+				height: 100%;
+				display: flex;
+				justify-content: center;
+				align-items: center; 
+				text-align: center;
+			}
+			
+
+			
+			pre {
+				font-family: inherit;
+				text-align: left;
+			}
+			
+			h1 {
+				display: inline-block;
+				background-color: #B7B7B7; /* grey */
+				font-size: inherit;
+				color: #0F30B8; /* blue */
+				
+				padding: 0 1em;
+			}
+			
+			a {
+				text-decoration: none;
+				color: #FFFFFF;
+			}
+
+			p {
+				text-align: left;
+			}
+			
+			#search:hover {
+				cursor: pointer;
+			}
+		</style>
+		<script>
+			window.onload = function() {
+				document.getElementById("host").innerHTML = document.location.hostname;
+			}
+			
+			function search() {
+				window.open("http://google.com?q=site:" + document.location.hostname);
+			}
+		</script>
+    </head>
+    <body>
+		
+        <div class="container">
+			<h1>File Not Found</h1>
+			
+			<p>
+				A fatal exception 404 has occurred due to 534849545459:434F4445. The current<br>
+				page cannot be found.<br><br>
+			
+				*  <a href="https://google.com/search?tbm=isch&q=atari+breakout">Click here to play a game instead. You know you want to...</a><br>
+				*  <span id="search" onclick="search();">Otherwise try GOOGLE+DOT+COM to search for the missing page. Click<br>
+				   &nbsp;&nbsp;here to search for pages just on <span id="host">this website.</span><br>
+			</p>
+
+			<a href="javascript:history.back()">Press here to go back</a>
+			<span style="color: #B7B7B7">_</span>
+
+		</div>
+    </body>
+</html>
